@@ -12,6 +12,5 @@ def happy_birthday(birthday_kids)
       winner = name
     end
   end
-   
   winner
 end
